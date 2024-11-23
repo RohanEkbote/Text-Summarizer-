@@ -1,4 +1,4 @@
-# Text-Summarizer-and-Essay-Grader
+# Text-Summarizer
 
 ## Introduction 
 
@@ -10,7 +10,7 @@
 
 ## Project Goal 
 
-_**To build an automated Text summarizer & Essay grading model.**_
+_**To build an automated Text summarizer**_
 
 ## Data 
 
@@ -25,7 +25,7 @@ Link to the dataset : https://www.kaggle.com/c/asap-aes/data
 
    ii) The working of gensim and Sumy is the same . 
 
-3. Easy grader helps grade essays without bias and saves time.
+
 
 
 
